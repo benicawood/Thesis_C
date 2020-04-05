@@ -1,0 +1,23 @@
+
+ *********************************************************************
+ * TM-align (Version 20190822): protein structure alignment          *
+ * References: Y Zhang, J Skolnick. Nucl Acids Res 33, 2302-9 (2005) *
+ * Please email comments and suggestions to yangzhanglab@umich.edu   *
+ *********************************************************************
+
+Name of Chain_1: zinc_hydrolyse/4cpa.pdb (to be superimposed onto Chain_2)
+Name of Chain_2: zinc_hydrolyse/1xjo.pdb
+Length of Chain_1: 307 residues
+Length of Chain_2: 270 residues
+
+Aligned length= 213, RMSD=   3.65, Seq_ID=n_identical/n_aligned= 0.094
+TM-score= 0.54920 (if normalized by length of Chain_1, i.e., LN=307, d0=6.43)
+TM-score= 0.61101 (if normalized by length of Chain_2, i.e., LN=270, d0=6.06)
+(You should use TM-score normalized by length of the reference structure)
+
+(":" denotes residue pairs of d <  5.0 Angstrom, "." denotes other aligned residues)
+ARST-------NT-FNYAT--Y-HT-------------LDEIYDFMDLLVAQHPELVSKLQIGRSYEGRPIYVLKFSTGGSNRPAIWIDLGIHSR----EWI-TQATGVWFAKKFTENYGQNPSFTAILDSMDIFLEIVTNPNGFAFTHSENRLWRKTRSVTSSSLCVGVDANRNWDAGFGKAGASSSPCSETYHGKYANSEVEVKSIVDFVKN-HG-NFKAFLSIHS-Y---SQLLLYPYGYTTQSIPDKTELNQVAKSAVAALKSLYGTSYKYGSIITTIYQASGGSIDWSYNQGIKYSFTFELRD---T--------------GRYG-F---LLPAS-QIIPTAQETWLGVLTIMEHTVNN
+           .  .::::  : ::             ::::::::::::::: :::::::::::::::::::::::::..::::::::::..::    .:: ::::::::::::::::::.   ::: .::::::: :::.              ::             :.                             :::::::::::: :: :::::::::. :   :::::::         .: :::::::::::.  :  . :.:::        .  ..:.:::.:::: ::::::..   .              :.:: :   :..:: :..::::::::::::::::::: 
+----APDIPLAN-VKAHLTQLSTIAANNGGNRAHGRPGYKASVDYVKAKLDAA-GYTTTLQQFTSGGATGYNLIANWPGGDPNKVLMAGAHLDSVSSGAGINDNGSGSAAVLETALAVSRAG---YQP-DKHLRFAW-WGAE--------------EL-------------GL-----------------------------IGSKFYVNNLPSADRSKLAGYLNFDIGSPNPGYFVYDD---------DP-VIEKTFKNYFAG--L--N-VPTEI--------R--SDHAPFKNVGVP-VGGLFTGAGYTKSAAQAQKWGGTAGQAFDRCYHSSCDSLSNINDTALDRNSDAAAHAIWTLSS-
+
+Total CPU time is  0.19 seconds

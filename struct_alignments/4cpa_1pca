@@ -1,0 +1,23 @@
+
+ *********************************************************************
+ * TM-align (Version 20190822): protein structure alignment          *
+ * References: Y Zhang, J Skolnick. Nucl Acids Res 33, 2302-9 (2005) *
+ * Please email comments and suggestions to yangzhanglab@umich.edu   *
+ *********************************************************************
+
+Name of Chain_1: zinc_hydrolyse/4cpa.pdb (to be superimposed onto Chain_2)
+Name of Chain_2: zinc_hydrolyse/1pca.pdb
+Length of Chain_1: 307 residues
+Length of Chain_2: 402 residues
+
+Aligned length= 307, RMSD=   0.48, Seq_ID=n_identical/n_aligned= 0.883
+TM-score= 0.99458 (if normalized by length of Chain_1, i.e., LN=307, d0=6.43)
+TM-score= 0.76040 (if normalized by length of Chain_2, i.e., LN=402, d0=7.24)
+(You should use TM-score normalized by length of the reference structure)
+
+(":" denotes residue pairs of d <  5.0 Angstrom, "." denotes other aligned residues)
+----------------------------------------------------------------------------------------------ARSTNTFNYATYHTLDEIYDFMDLLVAQHPELVSKLQIGRSYEGRPIYVLKFSTGGSNRPAIWIDLGIHSREWITQATGVWFAKKFTENYGQNPSFTAILDSMDIFLEIVTNPNGFAFTHSENRLWRKTRSVTSSSLCVGVDANRNWDAGFGKAGASSSPCSETYHGKYANSEVEVKSIVDFVKNHGNFKAFLSIHSYSQLLLYPYGYTTQSIPDKTELNQVAKSAVAALKSLYGTSYKYGSIITTIYQASGGSIDWSYNQGIKYSFTFELRDTGRYGFLLPASQIIPTAQETWLGVLTIMEHTVNN-
+                                                                                              ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 
+KEDFVGHQVLRISVDDEAQVQKVKELEDLEHLQLDFWRGPARPGFPIDVRVPFPSIQAVKVFLEAHGIRYTIMIEDVQLLLDEEQEQMFASQGRARTTSTFNYATYHTLEEIYDFMDILVAEHPALVSKLQIGRSYEGRPIYVLKFSTGGSNRPAIWIDSGIHSREWITQASGVWFAKKITENYGQNSSFTAILDSMDIFLEIVTNPNGFAFTHSDNRLWRKTRSKASGSLCVGSDSNRNWDAGFGGAGASSSPCAETYHGKYPNSEVEVKSITDFVKNNGNIKAFISIHSYSQLLLYPYGYKTQSPADKSELNQIAKSAVAALKSLYGTSYKYGSIITVIYQASGGVIDWTYNQGIKYSFSFELRDTGRRGFLLPASQIIPTAQETWLALLTIMEHTLNNS
+
+Total CPU time is  0.20 seconds
