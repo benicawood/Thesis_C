@@ -1,6 +1,6 @@
-# Zinc Hydrolyse family
+## Zinc Hydrolyse family
 
-![Sequence Tree](/seq_tree.png =100)
-<img src="seq_tree.png" width="250">
+# Sequence Tree
+<img src="seq_tree.png" width="500">
 
 [sequence alignment](sequence_alignment)
