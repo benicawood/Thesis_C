@@ -4,3 +4,9 @@
 <img src="seq_tree.png" width="500">
 
 [sequence alignment](sequence_alignment)
+
+# Structure Tree
+
+<img src="struc_tree.png" width="500">
+
+[structural alignments](struct_alignments)
