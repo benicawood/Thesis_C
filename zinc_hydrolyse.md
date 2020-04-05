@@ -7,6 +7,6 @@
 
 # Structure Tree
 
-<img src="struc_tree.png" width="500">
+<img src="Struc_tree.png" width="500">
 
 [structural alignments](struct_alignments)
