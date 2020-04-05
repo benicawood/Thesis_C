@@ -2,4 +2,4 @@
 
 ![Sequence Tree](/seq_tree.png)
 
-[sequence alignment](seq_alignment)
+[sequence alignment](sequence_alignment)
