@@ -12,7 +12,8 @@
 [structural alignments](struct_alignments)
 
 RMSD
-|---|1de4 | 1obr | 1nsa | 1aye | 1pca | 4cpa | 1lcp | 1cg2 | 1amp | 1xjo
+|---|1de4 | 1obr | 1nsa | 1aye | 1pca | 4cpa | 1lcp | 1cg2 | 1amp | 1xjo |
+|---|---|---|---|---|---|---|---|---|---|---|
 |1de4| | | | | | | | | |
 |1obr|5.86| | | | | | | | |
 |1nsa|6.46 |1.61 | | | | | | | |
