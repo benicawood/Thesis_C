@@ -5,6 +5,10 @@
 
 [sequence alignment](sequence_alignment)
 
+tree puzzle output
+
+
+
 # Structure Tree
 
 <img src="Struc_tree.png" width="500">
