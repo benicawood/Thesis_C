@@ -1,0 +1,36 @@
+Align 1de4A.pdb 272 with 1ayeA.pdb 401
+Twists 5 ini-len 136 ini-rmsd 6.45 opt-equ 151 opt-rmsd 4.32 chain-rmsd 18.82 Score 140.32 align-len 328 gaps 177 (53.96%)
+P-value 5.66e-01 Afp-num 30983 Identity 4.27% Similarity 11.89%
+Block  0 afp  3 score 41.82 rmsd  5.04 gap 53 (0.69%)
+Block  1 afp  2 score 41.57 rmsd  1.67 gap 0 (0.00%)
+Block  2 afp  3 score 48.45 rmsd  5.34 gap 1 (0.04%)
+Block  3 afp  2 score 40.50 rmsd  1.90 gap 0 (0.00%)
+Block  4 afp  3 score 47.35 rmsd  5.04 gap 23 (0.49%)
+Block  5 afp  4 score 32.91 rmsd  6.26 gap 68 (0.68%)
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:    6 HSLHYLFMGASEQDL----------------------GLSLFEALGYVDDQLFVFYDHESRRVEPRTPWV
+              1111111111111                        11111111111111                   
+Chain 2:   8A VGDQVLEIVPSNEEQIKNLLQLEAQEHLQLDFWKSPTTPGETAHVRVPFVNVQAVKVFLESQGIAYSIMI
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:   54 SSRI-----SSQMWLQLSQSLKGW---------DHMFTVDFWTIMENHNHSKESHTLQVILGCEMQEDNS
+                       222222222222222         33333333333333333333333      44444444
+Chain 2:  80A EDVQVLLDKENEEMLFNRRRERSGNFNFGAYHTLEEISQEMDNLVAEHPGLVSKVN------IGSSFENR
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:  110 TEGYWKYGYDGQDHLEFCPDTLDWRAAEPRAWPTKLEWERHKIRARQNRAYLERDCP-------AQLQQL
+              44444444                      5 555555555555555555555555        666666
+Chain 2:   46 PMNVLKFSTGGDKPAIWL------------DAGIHAREWVTQATALWTANKIVSDYGKDPSITSILDALD
+
+                  .    :    .    :    .    :    .    :    .    :    .    :    .    :
+Chain 1:  173 LELGRGVLDQQVPPLVKVTHHVTSSVTTLRCRALNYYPQNI--TMKWLKDKQPMDAKEFEPKDVLPNGDG
+              6     66666666666              6666        66666666                   
+Chain 2:  105 I-----FLLPVTNPDGY--------------VFSQTKNRMWRKTRSKVSGS-------------------
+
+                  .    :    .    :    .    :    .    :    .
+Chain 1:  241 TYQGWITLAVPPGEEQRYTCQVEHPGL----------------DQPLI
+                               6666666666                66666
+Chain 2:  137 -----------------LCVGVDPNRNWDAGFGGPGASSNPCSDSYHG
+
+Note: positions are from PDB; the numbers between alignments are block index
