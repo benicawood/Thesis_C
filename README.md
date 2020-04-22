@@ -1,3 +1,3 @@
 # Thesis_C
 
-[Zinc Hydrolyse Trees](zinc_hydrolyse.md)
+[Zinc Hydrolase Trees](zinc_hydrolase.md)
