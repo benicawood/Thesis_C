@@ -1,4 +1,4 @@
-## Zinc Hydrolyse family
+## Zinc Hydrolase family
 
 # Sequence Tree
 <img src="seq_tree.png" width="500">
