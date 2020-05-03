@@ -1,5 +1,7 @@
 # Trypsin-Like Serine Proteases
 
+<img src="trypsin_table.png" width="500">
+
 ## Sequence Trees
 
 <img src="seq_tree_shapes.png" width="500">
@@ -16,4 +18,4 @@
 
 tanglegram produced by R dendextend
 
-<img src="tangle.png" width="500">
+<img src="tangle.jpeg" width="500">
