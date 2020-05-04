@@ -12,6 +12,14 @@
 
 ## Structure Trees
 
+domain 1 tree
+<img src="dom1_tree.png" width="500">
+
+domain 2 tree
+<img src="dom2_tree.png" width="500">
+
+
+old tree
 <img src="struc tree.png" width="500">
 
 ## Combined Tree
