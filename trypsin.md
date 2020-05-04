@@ -6,6 +6,9 @@
 
 <img src="seq_tree_shapes.png" width="500">
 
+[clustal_out.clustal_num](sequence_alignment)
+[clustal_out.clustal_num](sequence_alignment)
+
 ## Structure Trees
 
 <img src="struc tree.png" width="500">
@@ -20,11 +23,8 @@ tanglegram produced by R dendextend
 
 <img src="tangle.jpeg" width="500">
 
-## clustal alignment
 
-CLUSTAL O(1.2.4) multiple sequence alignment
 
-## trimmed alignment
-gblocks outputted phylip format
+
 
  
