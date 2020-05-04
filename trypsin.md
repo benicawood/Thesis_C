@@ -6,7 +6,8 @@
 
 <img src="seq_tree_shapes.png" width="500">
 
-[clustal alignment](clustal_out.clustal_num)
+[clustal alignment](clustal_out.clustal_num) \n
+
 [trimmed g_blocks alignment](gblocks_out_phylip)
 
 ## Structure Trees
