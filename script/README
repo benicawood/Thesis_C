@@ -1,0 +1,13 @@
+Programs required for pipeline:
+-Tree Puzzle
+-gblocks
+-ClustalW rest api script
+-TMalign
+
+To run script, file and other dependencies need to be in the same directory.
+Input should also be in the same directory as the file. In the form of a FASTA 
+file containing all sequences to be aligned and a directory containing all of 
+the pbd files.
+
+python align_sequence_structure.py file.fasta structure_directory
+
