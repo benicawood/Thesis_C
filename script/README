@@ -3,6 +3,7 @@ Programs required for pipeline:
 -gblocks
 -ClustalW rest api script
 -TMalign
+-MEGA
 
 To run script, file and other dependencies need to be in the same directory.
 Input should also be in the same directory as the file. In the form of a FASTA 
